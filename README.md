@@ -1,3 +1,11 @@
-Blank project template
+React Bdd project
 
-Boilerplate for ongoing work
+React Bdd Boilerplate
+
+yarn start
+
+yarn test
+
+yarn build
+
+yada yada yada
